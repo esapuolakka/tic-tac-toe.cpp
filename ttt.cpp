@@ -15,7 +15,7 @@ int cell;
 // Player turn
 char player = 'X';
 
-// The turns of the game (total 9)
+// The turns of the game (total 9 turns)
 int turn = 1;
 
 welcome();
